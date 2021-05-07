@@ -21,3 +21,6 @@ $DownloadPath和$ExtractPath将等于 "C:\driver".
 3) .\UpdateChromeDriver.ps1 "DownloadPath" "ExtractPath" e.g. .\UpdateChromeDriver.ps1 "C:\automation" "C:\automation\driver"
 $DownloadPath 将等于 "C:\automation"
 "ExtractPath" 将等于 "C:\automation\driver"
+
+I use the mirror site of taobao because client can't connect the official site without proxy.
+我使用的是淘宝的镜像网站，因为客户端没有代理无法连接到官方网站。
